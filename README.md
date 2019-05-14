@@ -16,3 +16,4 @@
 具體安裝參考[鏈接網址](https://ithelp.ithome.com.tw/articles/10197921)
 
 安裝完成後，點擊下圖紅色里的`Start`
+![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp_1.png)
