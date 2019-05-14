@@ -15,5 +15,15 @@
 
 具體安裝參考[鏈接網址](https://ithelp.ithome.com.tw/articles/10197921)
 
-安裝完成後，點擊下圖紅色里的`Start`
-![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp_1.png)
+安裝完成後，點擊下圖紅色里的`Start`，此時將開啟Apache和MySQL
+
+![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp_2.png)
+
+用[http://localhost/](http://localhost/)網址來連線XAMPP網絡服務，成功將看到如下圖
+
+![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp_3.png)
+
+### 下載網頁程式碼
+
+下載此專案上的`HTML5-BayesNet-Tools-master文件夾`
+打開
