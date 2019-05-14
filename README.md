@@ -7,9 +7,12 @@
 
 
 
-## 步骤
+## **步骤**
 **本实验为windows环境下**
-1. 安装XAMPP<br>
+安装XAMPP
+
+![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp.png)
+
 参考[链接网址](https://ithelp.ithome.com.tw/articles/10197921)
 
 
