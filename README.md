@@ -11,7 +11,7 @@
 **本实验为windows环境下**
 ### 安裝XAMPP
 
-![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp.png)
+![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp.png =320x320)
 
 具體安裝參考[鏈接網址](https://ithelp.ithome.com.tw/articles/10197921)
 
