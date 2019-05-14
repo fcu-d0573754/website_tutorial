@@ -9,10 +9,10 @@
 
 ## **步骤**
 **本实验为windows环境下**
-安装XAMPP
+### 安裝XAMPP
 
 ![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp.png)
 
-参考[链接网址](https://ithelp.ithome.com.tw/articles/10197921)
+具體安裝參考[鏈接網址](https://ithelp.ithome.com.tw/articles/10197921)
 
-
+安裝完成後，點擊下圖紅色里的`Start`
