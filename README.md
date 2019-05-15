@@ -17,7 +17,7 @@
 
 安裝完成後，點擊下圖紅色里的`Start`，此時將開啟Apache和MySQL
 
-![](https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp_2.png)
+<img src="https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/xampp_2.png" width = "450" height = "350" >
 
 用[http://localhost/](http://localhost/)網址來連線XAMPP網絡服務，成功將看到如下圖
 
@@ -40,7 +40,29 @@
 若成功會出現如圖所示的頁面
 
 <img src="https://github.com/fcu-d0573754/website_tutorial/raw/master/Picture/web_1.png" width = "450" height = "350" >
+
+> *通過此頁面可以在線產生貝式網絡分析出的結果，點選頁面中的`選擇檔案`上傳需要分析的XML檔案*
  
 **到此本地端網站架設成功！！**
+
+### 外網訪問
+
+由於剛剛架設的網站只是能本地端訪問，外部人員無法存取此頁面
+
+故需要如下幾個步驟：
+
+- 打開https-xampp.conf文件
+- 查找Require local
+- 將這行注釋 變成＃Require local
+
+即可完成外網訪問
+
+其中此網址就是本機的IP地址
+
+本地端[IP地址查詢參考網址](https://kknews.cc/zh-tw/game/nmx6jv3.html)
+
+知道IP后就可以直接在瀏覽器上輸入IP鏈接到本網站
+
+
 
 
